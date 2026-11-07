@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.env
+.env.*
+*.key
+*.pem
+*.token
+.venv/
+__pycache__/
